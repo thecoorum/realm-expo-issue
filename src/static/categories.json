@@ -1,0 +1,116 @@
+[
+  {
+    "type": "expense",
+    "name": "bills",
+    "icon": "pricetags-outline",
+    "translations": ["Bills", "Счета"]
+  },
+  {
+    "type": "expense",
+    "name": "car",
+    "icon": "car-sport-outline",
+    "translations": ["Car", "Автомобиль"]
+  },
+  {
+    "type": "expense",
+    "name": "clothes",
+    "icon": "shirt-outline",
+    "translations": ["Clothes", "Одежда"]
+  },
+  {
+    "type": "expense",
+    "name": "communications",
+    "icon": "call-outline",
+    "translations": ["Communications", "Связь"]
+  },
+  {
+    "type": "expense",
+    "name": "eating_out",
+    "icon": "pizza-outline",
+    "translations": ["Eating Out", "Питание"]
+  },
+  {
+    "type": "expense",
+    "name": "entertainment",
+    "icon": "game-controller-outline",
+    "translations": ["Entertainment", "Развлечения"]
+  },
+  {
+    "type": "expense",
+    "name": "food",
+    "icon": "basket-outline",
+    "translations": ["Food", "Продукты"]
+  },
+  {
+    "type": "expense",
+    "name": "gifts",
+    "icon": "gift-outline",
+    "translations": ["Gifts", "Подарки"]
+  },
+  {
+    "type": "expense",
+    "name": "health",
+    "icon": "medkit-outline",
+    "translations": ["Health", "Здоровье"]
+  },
+  {
+    "type": "expense",
+    "name": "house",
+    "icon": "home-outline",
+    "translations": ["House", "Дом"]
+  },
+  {
+    "type": "expense",
+    "name": "pets",
+    "icon": "paw-outline",
+    "translations": ["Pets", "Животные"]
+  },
+  {
+    "type": "expense",
+    "name": "sports",
+    "icon": "basketball-outline",
+    "translations": ["Sports", "Спорт"]
+  },
+  {
+    "type": "expense",
+    "name": "taxi",
+    "icon": "car-outline",
+    "translations": ["Taxi", "Такси"]
+  },
+  {
+    "type": "expense",
+    "name": "transport",
+    "icon": "train-outline",
+    "translations": ["Transport", "Транспорт"]
+  },
+  {
+    "type": "expense",
+    "name": "other",
+    "icon": "ellipsis-horizontal-outline",
+    "translations": ["Other", "Другое"]
+  },
+  {
+    "type": "income",
+    "name": "deposits",
+    "icon": "card-outline",
+    "translations": ["Deposits", "Депозиты"]
+  },
+  {
+    "type": "income",
+    "name": "salary",
+    "icon": "cash-outline",
+    "translations": ["Salary", "Зарплата"]
+  },
+  {
+    "type": "income",
+    "name": "savings",
+    "icon": "wallet-outline",
+    "translations": ["Savings", "Сбережения"]
+  },
+  {
+    "type": "income",
+    "name": "other",
+    "icon": "ellipsis-horizontal-outline",
+    "translations": ["Other", "Другое"]
+  }
+]
